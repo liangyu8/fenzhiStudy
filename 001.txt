@@ -1,3 +1,7 @@
 001 frist time
 002 secend time
+<<<<<<< HEAD
 003 newbranchqwdqwdq
+=======
+jinitaimei 
+>>>>>>> newbranch01
